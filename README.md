@@ -1,8 +1,8 @@
 # Subnetting & Routing (Komunikasi Data dan Jaringan Komputer)
 
-**Nama:** Zaenal Mustofa
-**NRP:** 5027241018
-**Base Network Unik:** 10.58.0.0/16
+**Nama:** Zaenal Mustofa  
+**NRP:** 5027241018  
+**Base Network:** 10.58.0.0/16
 
 ## I. Analisis Kebutuhan Jaringan
 
