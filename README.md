@@ -22,8 +22,6 @@ Yayasan Pendidikan ARA membutuhkan jaringan yang dapat mengakomodasi kebutuhan h
 Topologi dirancang menggunakan skema 7 Router (1 R-Pusat, 5 R-LAN, 1 R-Cabang) dengan R-Pusat mengatasi kendala port fisik menggunakan satu subnet Link (/28) yang terhubung ke Switch12.
 
 ### 1. Desain Topologi Jaringan
-
-[Tambahkan Gambar Topologi dari Cisco Packet Tracer Anda di sini]
 ![Topologi Jaringan](img/ss1.png)
 
 ### 2. Alokasi Interface Router
