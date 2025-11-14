@@ -24,7 +24,7 @@ Topologi dirancang menggunakan skema 7 Router (1 R-Pusat, 5 R-LAN, 1 R-Cabang) d
 ### 1. Desain Topologi Jaringan
 
 [Tambahkan Gambar Topologi dari Cisco Packet Tracer Anda di sini]
-<img src="[Nama File Screenshot Topologi Anda]" alt="Topologi Jaringan Final" width="800"/>
+![Topologi Jaringan](img/ss1.png)
 
 ### 2. Alokasi Interface Router
 
